@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WallApper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="apply">Apply Wallpaper</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fovourite">FovouriteActivity</string>
+    <string name="title_activity_faq">FaqActivity</string>
+    <string name="title_activity_favourite">FavouriteActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
